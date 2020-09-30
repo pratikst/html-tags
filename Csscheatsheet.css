@@ -1,0 +1,27 @@
+Embedded Style
+
+  <head>
+
+    <style type="text/css">
+
+      selector { property: value; }
+
+    </style>
+
+  </head>
+
+-----------------------
+Inline Style
+
+  <tag style="property: value;">
+-----------------------
+
+External Style Sheet
+
+  <head>
+
+    <link rel="stylesheet"
+
+     type="text/css" href="style.css" />
+
+  </head>
